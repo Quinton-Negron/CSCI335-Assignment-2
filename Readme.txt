@@ -1,0 +1,5 @@
+Q1 was alright. I think the hardest part was doubles just because of how much trial and error was involved in working out why it broke other files (linear and quadratic) trying to pass an R-value and how a command line argument actually works. As a Mac user (sad, I know) I used MathisFun's prime number section to narrow down what R-value I needed. I was pretty close to just using 155 as my value because it gave me the "closest amount" Turns out that value was 73 which on a mac gives you the exact probing and collisions. Even then that wasn't enough because I had to be able to pass in r_value to allow gradescope to grade it (the value was originally hardcoded)
+
+Q2 was so fine, but I did depended more on online resources here than I did in Q1. Some sources I used were https://visualgo.net/en/heap?slide=1 which helps you build a heap and random PDFs online discussing how to do the chart.
+
+Having transitioned into online work has sort of inhibited my ability to complete this sooner. It wasn't until about half a week before april 6th that I was finally making progress on Project 3. I don't know what I would've done if we had the original due date.
